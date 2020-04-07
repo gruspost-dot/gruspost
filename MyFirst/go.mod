@@ -1,3 +1,3 @@
-module github.com/gruspost-dot/MyFirst
+module github.com/gruspost-dot/myfirst
 
 go 1.14
