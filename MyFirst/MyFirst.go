@@ -3,6 +3,6 @@ package MyFirst
 import "fmt" 
 
 // Hi returns a friendly greeting
-func Hi(name string) string {
+func Hellos(name string) string {
    return fmt.Sprintf("Hi, %s", name)
 }

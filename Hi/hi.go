@@ -1,7 +1,7 @@
-package Hellos
+package Hi
 
 import "fmt"
 
-func Hellos() {
+func Hi() {
     fmt.Println("Hello, World!")
 }
