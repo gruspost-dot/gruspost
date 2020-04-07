@@ -2,6 +2,6 @@ package Hi
 
 import "fmt"
 
-func Hel() {
+func Hel() string {
     fmt.Println("Hello, World!")
 }
