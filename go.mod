@@ -1,3 +1,3 @@
 module github.com/gruspost-dot/gruspost
 
-go 1.14
+go 1.22.7
